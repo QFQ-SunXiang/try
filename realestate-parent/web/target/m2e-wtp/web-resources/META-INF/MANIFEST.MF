@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: xiang
+Specification-Title: web
+Implementation-Vendor-Id: com.aladdin.realestate
+Build-Jdk: 1.8.0_111
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
